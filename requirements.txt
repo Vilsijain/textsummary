@@ -1,0 +1,7 @@
+trafilatura
+flask
+gunicorn
+sumy
+nltk
+numpy
+ratelimit
